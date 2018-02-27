@@ -12,7 +12,7 @@ import keras
 
 ###make a dictionary like this:
 ###{'helvetica':["mission 1','mission 2',...],'arial':['mission 1','mission 2']...}
-df = pd.read_excel('fonts.xlsx')
+df = pd.read_excel('font_dataset.xlsx')
 classdict = {}
 for i in df.index:
     try:
