@@ -1,6 +1,6 @@
 # UROP-project-face_of_fonts
 ![alt text](https://github.com/Fishbiscuit/UROP-project-face_of_fonts/blob/master/paper_images/0.png)
-\n\n\n
+
 This is a project submitted for the First National Collegiate and International Invitational Tournament on Brain-inspired Computing by Tsinghua University
 
 Our team hypothesised that typography had semantic meaning, proceeding to gather our own dataset and applied machine learning algorithms to test our hypothesis. Our submission provided a prelimianry typeface recommendation by analysing a design brief.
@@ -23,6 +23,7 @@ one layer of convolution on top of word vectors.
 
 # Our Recommendations
 1. MUSEUM OF IMAGE AND SOUND
+
 Studio: ps.2 arquitetura + design
 Art direction: Fabio Prata, Flavia Nalon
 Designers: Fabio Prata, Flavia Nalon, Aurelian Hallhuber, Lisa Moura, Lucas Blat
@@ -56,6 +57,7 @@ ventures, educational programmes and innovative research. The Museum is a flagsh
 Taawon-Welfare Association and one of the most exciting new cultural projects in Palestine."
 
 ![alt text](https://github.com/Fishbiscuit/UROP-project-face_of_fonts/blob/master/paper_images/29.png)
+
 Fig: Logo of The Palestinian Museum
 
 Our Recommendations
