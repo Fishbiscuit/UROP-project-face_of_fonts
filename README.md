@@ -37,8 +37,10 @@ The museum's program includes short and long term exhibitions, research offices,
 tivities room, a 280-seat theater/cinema, a shop, a cafeteria, a panoramic restaurant, a bar/rooftop
 terrace, a nightclub and an observation deck, as well as a kiosk on the beachfront."
 
+
 ![alt text](https://github.com/Fishbiscuit/UROP-project-face_of_fonts/blob/master/paper_images/26.png)
 Fig: Logo of Mis Museu Da Imagem E Do Som, retrieved http://www.mis.rj.gov.br/about-us/
+
 
 Our Recommendations
 1. RUBIK
@@ -46,7 +48,9 @@ Our Recommendations
 2. HEEBO
 ![alt text](https://github.com/Fishbiscuit/UROP-project-face_of_fonts/blob/master/paper_images/28.png)
 
+
 2. THE PALESTINIAN MUSEUM
+
 Studio: venture three
 Art direction: venture three, Stuart Jane, Grant Dickson, Tim Jackson
 Designers: Nadine Chahine (Arabic)
@@ -56,9 +60,12 @@ new perspectives on Palestinian history, society and culture. It also offers spa
 ventures, educational programmes and innovative research. The Museum is a flagship project of
 Taawon-Welfare Association and one of the most exciting new cultural projects in Palestine."
 
+
 ![alt text](https://github.com/Fishbiscuit/UROP-project-face_of_fonts/blob/master/paper_images/29.png)
 
+
 Fig: Logo of The Palestinian Museum
+
 
 Our Recommendations
 1. Oxygen
@@ -69,9 +76,10 @@ Our Recommendations
 ![alt text](https://github.com/Fishbiscuit/UROP-project-face_of_fonts/blob/master/paper_images/32.png)
 
 3. PLENTYFULL
+
 Designer: Mark De Winne, Singapore
 Studio/Agency: Parable Studio Pte Ltd
-"Plentyfull is your denitive place of restoration, tucked away in the thick of city jungle bustle.
+"Plentyfull is your definitive place of restoration, tucked away in the thick of city jungle bustle.
 Run on love, laughter, and an ever-changing food menu steered by the freshest seasonal ingredients
 sourced straight from the farmers and spearheaded by creative culinaires. The kaleidoscope of diverse
 cuisines, all made from scratch, is accompanied by buttery whiffs of freshly baked pastries adrift from
@@ -80,15 +88,18 @@ The space that serves great food, evolves from a wholesome market table luncheon
 intimate full service restaurant come nightfall. At Plentyfull, there's something to rejuvenate the
 senses, any time of day."
 
+
 ![alt text](https://github.com/Fishbiscuit/UROP-project-face_of_fonts/blob/master/paper_images/33.png)
 Fig: Extract from Plentyfull's braning toolkit depicting its chosen primary typeface. Retrieved
 from http://parable.sg/news/plentyfull
+
 
 Our Recommendations
 1. Shanti
 ![alt text](https://github.com/Fishbiscuit/UROP-project-face_of_fonts/blob/master/paper_images/34.png)
 2. Open Source Sans Pro
 ![alt text](https://github.com/Fishbiscuit/UROP-project-face_of_fonts/blob/master/paper_images/35.png)
+
 
 4. Tom's Town
 Designer: Kevin Cantrell, Salt Lake City, Utah
@@ -98,8 +109,9 @@ and corrupt political boss, Tom Pendergast. Pendergast had roots in the liquor b
 keeper and as the founder of a wholesale liquor company."
 
 ![alt text](https://github.com/Fishbiscuit/UROP-project-face_of_fonts/blob/master/paper_images/36.png)
-Fig: Screen capture of Tom's Town website description depicting their chosen primary typeface.
-Retrieved: http://www.toms-town.com/#
+
+Fig: Screen capture of Tom's Town website description depicting their chosen primary typeface. Retrieved: http://www.toms-town.com/#
+
 
 Our Recommendations
 1. Shanti
@@ -107,10 +119,12 @@ Our Recommendations
 2. Droid Sans
 ![alt text](https://github.com/Fishbiscuit/UROP-project-face_of_fonts/blob/master/paper_images/38.png)
 
+
 5. Bythenorth
+
 Designer: Francois Xavier Saint Georges and Daniel Robitaille, Montreal
 Studio/Agency: Bythenorth|furniture designer/maker and visual designer
-\A good design is starting with an excellent idea. Leading to a bucket of added spontaneity. Free
+"A good design is starting with an excellent idea. Leading to a bucket of added spontaneity. Free
 flow gestures in the making. This attracts us a lot. Unexpected, playful results: it becomes beautiful
 and useful. When it comes to furniture, we believe that good design should be free and sharp. As
 an eagle above the forest."
@@ -118,6 +132,7 @@ an eagle above the forest."
 ![alt text](https://github.com/Fishbiscuit/UROP-project-face_of_fonts/blob/master/paper_images/39.png)
 Fig: Screen capture of By The North's website description depicting their chosen primary typeface.
 Retrieved: http://www.bythenorth.com/english/
+
 
 Our Recommendations
 1. Nunito
