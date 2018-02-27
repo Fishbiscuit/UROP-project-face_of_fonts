@@ -39,13 +39,17 @@ terrace, a nightclub and an observation deck, as well as a kiosk on the beachfro
 
 
 ![alt text](https://github.com/Fishbiscuit/UROP-project-face_of_fonts/blob/master/paper_images/26.png)
+
+
 Fig: Logo of Mis Museu Da Imagem E Do Som, retrieved http://www.mis.rj.gov.br/about-us/
 
 
 Our Recommendations
 1. RUBIK
+
 ![alt text](https://github.com/Fishbiscuit/UROP-project-face_of_fonts/blob/master/paper_images/27.png)
 2. HEEBO
+
 ![alt text](https://github.com/Fishbiscuit/UROP-project-face_of_fonts/blob/master/paper_images/28.png)
 
 
@@ -69,10 +73,13 @@ Fig: Logo of The Palestinian Museum
 
 Our Recommendations
 1. Oxygen
+
 ![alt text](https://github.com/Fishbiscuit/UROP-project-face_of_fonts/blob/master/paper_images/30.png)
 2. Hind
+
 ![alt text](https://github.com/Fishbiscuit/UROP-project-face_of_fonts/blob/master/paper_images/31.png)
 3. Hind Siliguri
+
 ![alt text](https://github.com/Fishbiscuit/UROP-project-face_of_fonts/blob/master/paper_images/32.png)
 
 3. PLENTYFULL
@@ -96,8 +103,10 @@ from http://parable.sg/news/plentyfull
 
 Our Recommendations
 1. Shanti
+
 ![alt text](https://github.com/Fishbiscuit/UROP-project-face_of_fonts/blob/master/paper_images/34.png)
 2. Open Source Sans Pro
+
 ![alt text](https://github.com/Fishbiscuit/UROP-project-face_of_fonts/blob/master/paper_images/35.png)
 
 
@@ -115,8 +124,10 @@ Fig: Screen capture of Tom's Town website description depicting their chosen pri
 
 Our Recommendations
 1. Shanti
+
 ![alt text](https://github.com/Fishbiscuit/UROP-project-face_of_fonts/blob/master/paper_images/37.png)
 2. Droid Sans
+
 ![alt text](https://github.com/Fishbiscuit/UROP-project-face_of_fonts/blob/master/paper_images/38.png)
 
 
@@ -136,8 +147,10 @@ Retrieved: http://www.bythenorth.com/english/
 
 Our Recommendations
 1. Nunito
+
 ![alt text](https://github.com/Fishbiscuit/UROP-project-face_of_fonts/blob/master/paper_images/40.png)
 2. NTR
+
 ![alt text](https://github.com/Fishbiscuit/UROP-project-face_of_fonts/blob/master/paper_images/41.png)
 
 # Limitations
