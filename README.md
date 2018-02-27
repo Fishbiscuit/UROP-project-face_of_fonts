@@ -1,5 +1,6 @@
 # UROP-project-face_of_fonts
 ![alt text](https://github.com/Fishbiscuit/UROP-project-face_of_fonts/blob/master/paper_images/0.png)
+\n\n\n
 This is a project submitted for the First National Collegiate and International Invitational Tournament on Brain-inspired Computing by Tsinghua University
 
 Our team hypothesised that typography had semantic meaning, proceeding to gather our own dataset and applied machine learning algorithms to test our hypothesis. Our submission provided a prelimianry typeface recommendation by analysing a design brief.
@@ -27,7 +28,7 @@ Art direction: Fabio Prata, Flavia Nalon
 Designers: Fabio Prata, Flavia Nalon, Aurelian Hallhuber, Lisa Moura, Lucas Blat
 "The museum will offer a journey throughout the cultural history of Rio { a well-known and cele-
 brated city for its Carnival, Samba and Bossa Nova. Besides being a cultural center, the museum
-will also function as a hub to produce and promote culture. Its 9.8 thousand square meters will oer
+will also function as a hub to produce and promote culture. Its 9.8 thousand square meters will offer
 the public an innovative exhibit design in order to digitally display the institution's collection that
 includes different documents, photographs, billboards, records, footage, videos, newspapers clippings,
 and texts. MIS will also house and display the Carmem Miranda Museum collection.
